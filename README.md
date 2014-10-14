@@ -2,7 +2,7 @@ DSDT-Y470
 =========
 
 Hardware
-————
+---------
 
 ### CPU:
 		i5-2450M Sandy-Bridge HM-65
